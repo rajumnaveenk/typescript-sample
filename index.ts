@@ -2,4 +2,4 @@
 import './style.css';
 
 // Write TypeScript code!
-alert('hello abc');
+alert('hello world');
